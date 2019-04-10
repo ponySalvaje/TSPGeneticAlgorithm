@@ -1,0 +1,19 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\bin\Debug\PathGATSP.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\bin\Debug\PathGATSP.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.GraphForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\PathGATSP\PathGATSP\obj\Debug\PathGATSP.pdb
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\bin\Debug\PathGATSP.exe
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\bin\Debug\PathGATSP.pdb
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.csprojAssemblyReference.cache
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.GraphForm.resources
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.MainForm.resources
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.Properties.Resources.resources
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.csproj.GenerateResource.cache
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.exe
+C:\Users\marce\Downloads\Genetic Algorithm for the Traveling Salesman Problem\C#\PathGATSP\obj\Debug\PathGATSP.pdb
